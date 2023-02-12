@@ -37,21 +37,14 @@ Entrega Contínua de Valor
 - Kanban
 - OKR
 
-[Links Úteis e Referências]
-(
-Manifesto para Desenvolvimento Ágil de Software
-https://agilemanifesto.org/iso/ptbr/manifesto.html
+##[Links Úteis e Referências]
+[Manifesto para Desenvolvimento Ágil de Software](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
-Scrum.org
-https://www.scrum.org/
+[Scrum.org](https://www.scrum.org/)
 
-Download - Scrum Guide
-https://scrumguides.org/index.html
+[Download - Scrum Guide](https://scrumguides.org/index.html)
 
-Kanban University
-https://kanban.university/
+[Kanban University](https://kanban.university/)
 
-NOTÍCIAS / ARTIGOS
-https://forbes.com.br/forbes-tech/2022/06/marcelo-ciascasua-lideranca-e-agil/
-https://forbes.com.br/forbesesg/2021/12/heineken-aplica-prototipagem-para-levar-energia-renovavel-a-bares/
-)
+[NOTÍCIAS / ARTIGOS](https://forbes.com.br/forbes-tech/2022/06/marcelo-ciascasua-lideranca-e-agil/)
+(https://forbes.com.br/forbesesg/2021/12/heineken-aplica-prototipagem-para-levar-energia-renovavel-a-bares/)
