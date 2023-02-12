@@ -1,0 +1,12 @@
+# Introdução a Prgramação e Pensamento Computacional
+Objetivo Geral:
+
+Foi apresentado os conceitos que caracterizam o pensamento computacional, permitindo que os desenvolvedores entendam o significado de pensar computacionalmente.
+
+Conforme os topicos abaixo:
+1) Introdução ao pensamento computacional
+2) Habilidade complementares
+3) Os Pilares: Decomposição, Padrões, Abstração, Algoritmos
+4) Estudo de caso conceitual: Perdido
+5) Estudo de caso aplicado: Soma de um intervalo 
+6) Estudo de caso aplicado: Adivinhe um numero
